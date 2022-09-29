@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dessygil
-- 👀 I’m interested in ... becoming the best and most content I can be 
-- 🌱 I’m currently learning ... not learning, but grinding leet code
+- 👀 I’m interested in ... Working on challenging project that allow me to keep on learning. 
+- 🌱 I’m currently learning ... all the ins and outs of Python
 - 💞️ I’m looking to collaborate on ... building unique projects with unique people
 - 📫 How to reach me ... https://www.linkedin.com/in/desmond-gilmour-886b3a128/
 
