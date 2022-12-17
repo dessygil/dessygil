@@ -1,6 +1,7 @@
 # About me!
 
-Hi there! My name is <strong>Desmond Gilmour</strong>, but everyone calls me Des. I'm currently searching for a a developer role.
+Hi there! My name is <strong>Desmond Gilmour</strong>, but everyone calls me Des. I'm currently on the hunt for a developer role. Shoot me a message on
+[https://www.linkedin.com/in/desmond-gilmour-886b3a128/](my LinkedIn), I would love to explore an opportunity with you 
 
 ## My Skills
 ### The languages I am proficient in:
