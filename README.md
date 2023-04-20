@@ -57,6 +57,10 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
+<details>
+  this is good for large amounts of data
+</details>
+
 
 
 
