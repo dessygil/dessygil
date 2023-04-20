@@ -77,35 +77,14 @@ Feel free to connect through any of the below channels, ask me anything (within 
 </details>
 <br/>  
 
-## Github Stats  
-<div align="center">
-  <a href="https://github.com/dessygil/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=dessygil&&show_icons=true&theme=radical"/>
-  </a>
-</div>  
   
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
+
 
 <img src="stats.gif" width="90%"><br/><br/>
 
-<div align="center">
-  <a href="https://github.com/dessygil/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=dessygil&&show_icons=true&theme=radical"/>
- </a>
-</div>  
+
  
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-
 
 
 
@@ -117,6 +96,14 @@ Feel free to connect through any of the below channels, ask me anything (within 
 - [Runaway Button React App](https://dev.to/dessygil/runaway-button-react-app-1eae)
 - [Reaching Out To Recruiters](https://dev.to/dessygil/reaching-out-to-recruiters-1m04)
 <!-- BLOG-POST-LIST:END -->
+    
+    
+<a href="https://github.com/dessygil/dessygil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessygil&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/dessygil/dessygil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dessygil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
     
  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
 
@@ -138,7 +125,11 @@ Feel free to connect through any of the below channels, ask me anything (within 
 - I have a love for organic chemistry
 - I'm proud of my year-long Duo Lingo streak
 
-
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/dessygil/count.svg" />
+</p>
+    
 <div align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=dessygil">
 </div>
