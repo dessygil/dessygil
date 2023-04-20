@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20major%20release-mar%201997-important" />
+  <img src="https://img.shields.io/badge/last%20major%20release-mar.%199700-important" />
   <img src="https://img.shields.io/badge/unminified%20size-5%20feet%206%20inches-informational" />
   <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
   <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
@@ -25,13 +25,62 @@ Feel free to connect through any of the below channels, I would love to chat, wo
 [![Gmail Badge](https://img.shields.io/badge/-desmondgilmour-c14438?style=flat&logo=Gmail&logoColor=white&link=desmondgilmour@gmail.com)](mailto:desmondgilmour@gmail.com)
 
 
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
-I'm a software developer passionate about building web and mobile applications. I'm currently on the hunt for a developer role in the biotech industry. 
 
-## My Skills
-- Programming languages: Python, JavaScript, Java, C/C++, SQL
-- Web and mobile development technologies: React/React Native, Express.js, Node.js, Django
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
 
 ## Education
 - Double degree in Chemistry and Computer Science from [Name of University]
@@ -45,60 +94,17 @@ I'm a software developer passionate about building web and mobile applications. 
 - [Name of Research Project or Laboratory] (Duration of Research)
   - Description of research work and results achieved
 
-## What I'm Working On
-- Finishing my personal website and implementing the Github API to showcase my projects more easily
-- Building a smart contract using Solidity
-- Developing a workout tracker app for iOS
 
 ## Some Other Things About Me
 - I started practicing Brazilian Jiu Jitsu in the summer of 2022
 - I have a love for organic chemistry
 - I'm proud of my year-long Duo Lingo streak
 
-## Contact Me
-Feel free to shoot me a message on LinkedIn if you'd like to chat about potential job opportunities or just connect!
 
-
-# About me!
-
-Hi there! My name is <strong>Desmond Gilmour</strong>, but everyone calls me Des or Dessy. I'm currently on the hunt for a developer role. Shoot me a message on [my LinkedIn](https://www.linkedin.com/in/desmond-gilmour-886b3a128/), I would love to explore an opportunity to work with you!
-
-## My Skills
-### The languages I am proficient in:
-<ul>
-  <li>Python</li>
-  <li>JavaScript</li>
-  <li>Java</li>
-  <li>C/C++</li>
-  <li>SQL</li>
-</ul>
-
-### The JavaScript/web and mobile development technologies that I work with closest are:
-<ul>
-  <li>React/React Native</li>
-  <li>Express.js</li>
-  <li>Node.js</li>
-  <li>Django</li>
-</ul>
-
-### What I am doing next:
-<ul>
-  <li>Finishing my personal website by implementing the Github API to more easier showcase projects I'm working on</li>
-  <li>Building a smart contract using Solidity</li>
-  <li>Developing a workout tracker for iOS</li>
-</ul>
-
-<hr>
-
-<strong>Some other things about me...</strong>
-<ul>
-  <li>I began practicing brazillian jiu jitsu in summer 2022</li>
-  <li>I have a love for organic chemistry</li>
-  <li>My Duo Lingo streak is over a year</li>
-</ul>
-
-
+<div align="center">
 ![](https://visitor-badge.glitch.me/badge?page_id=dessygil)
+</div>
+
 <!---
 dessygil/dessygil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
