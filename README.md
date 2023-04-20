@@ -1,4 +1,23 @@
-# Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Desmond Gilmour (Des/Dessy) 
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+<div align="center">
+  <h1>I'm Desmond Gilmour (Des/Dessy) </h1>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/last%20major%20release-mar.%199700-important" />
+  <img src="https://img.shields.io/badge/unminified%20size-5%20feet%206%20inches-informational" />
+  <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
+  <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
+</p>
+
+<br>
+
+## Contact Me
+
+Feel free to connect through any of the below channels, I would love to chat, work on porjects and to learn more from the community.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-desmondgilmour-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desmond-gilmour-886b3a128/)](https://www.linkedin.com/in/desmond-gilmour-886b3a128/)
@@ -6,13 +25,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-desmondgilmour-c14438?style=flat&logo=Gmail&logoColor=white&link=desmondgilmour@gmail.com)](mailto:desmondgilmour@gmail.com)
 
 
-<p>
-  <a href="https://github.com/dessygil" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-       badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/desmond-gilmour-886b3a128/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://dev.to/dessygil" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=dessygil)
 
 I'm a software developer passionate about building web and mobile applications. I'm currently on the hunt for a developer role in the biotech industry. 
 
@@ -84,6 +97,8 @@ Hi there! My name is <strong>Desmond Gilmour</strong>, but everyone calls me Des
   <li>My Duo Lingo streak is over a year</li>
 </ul>
 
+
+![](https://visitor-badge.glitch.me/badge?page_id=dessygil)
 <!---
 dessygil/dessygil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
