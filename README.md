@@ -1,3 +1,37 @@
+# Hi there, I'm Desmond Gilmour (Des/Dessy) 👋<iframe src="https://giphy.com/embed/7HuqlSbvKrzyzZhkzY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/sum-studijkemije-fpmoz-7HuqlSbvKrzyzZhkzY">via GIPHY</a></p>
+
+I'm a software developer passionate about building web and mobile applications. I'm currently on the hunt for a developer role in the biotech industry. 
+
+## My Skills
+- Programming languages: Python, JavaScript, Java, C/C++, SQL
+- Web and mobile development technologies: React/React Native, Express.js, Node.js, Django
+
+## Education
+- Double degree in Chemistry and Computer Science from [Name of University]
+- Relevant coursework includes:
+  - Organic Chemistry
+  - Biochemistry
+  - Data Structures and Algorithms
+  - Machine Learning
+
+## Research Experience
+- [Name of Research Project or Laboratory] (Duration of Research)
+  - Description of research work and results achieved
+
+## What I'm Working On
+- Finishing my personal website and implementing the Github API to showcase my projects more easily
+- Building a smart contract using Solidity
+- Developing a workout tracker app for iOS
+
+## Some Other Things About Me
+- I started practicing Brazilian Jiu Jitsu in the summer of 2022
+- I have a love for organic chemistry
+- I'm proud of my year-long Duo Lingo streak
+
+## Contact Me
+Feel free to shoot me a message on LinkedIn if you'd like to chat about potential job opportunities or just connect!
+
+
 # About me!
 
 Hi there! My name is <strong>Desmond Gilmour</strong>, but everyone calls me Des or Dessy. I'm currently on the hunt for a developer role. Shoot me a message on [my LinkedIn](https://www.linkedin.com/in/desmond-gilmour-886b3a128/), I would love to explore an opportunity to work with you!
