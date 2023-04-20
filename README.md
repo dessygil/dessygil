@@ -82,11 +82,13 @@ Feel free to connect through any of the below channels, I would love to chat, wo
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dessygil&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<a href="https://github.com/dessygil/github-readme-stats"> 
+<div align="center">
+  <a href="https://github.com/dessygil/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=dessygil&&show_icons=true&theme=radical"/>
- </a>
+  </a>
+</div>  
+
+
 
 
 
