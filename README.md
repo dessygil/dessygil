@@ -82,6 +82,11 @@ Feel free to connect through any of the below channels, I would love to chat, wo
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lasso Highlighting In Datamol](https://dev.to/dessygil/lasso-highlighting-in-datamol-36l3)
+- [Contributing to RDKit](https://dev.to/dessygil/contributing-to-rdkit-379b)
+- [How to Automatically Update Resume On Your Personal Site From OverLeaf](https://dev.to/dessygil/how-to-automatically-update-resume-on-your-personal-site-from-overleaf-1fld)
+- [Runaway Button React App](https://dev.to/dessygil/runaway-button-react-app-1eae)
+- [Reaching Out To Recruiters](https://dev.to/dessygil/reaching-out-to-recruiters-1m04)
 <!-- BLOG-POST-LIST:END -->
 
 ## Education
