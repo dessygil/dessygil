@@ -1,5 +1,6 @@
 <div align="center">
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">I'm Desmond Gilmour (Des/Dessy)🧬🦠 <br/>
+ <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><h1><br/>
+   <h4>I'm Desmond Gilmour (Des/Dessy)🧬🦠<h4> <br/>
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
