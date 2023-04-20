@@ -17,14 +17,6 @@
 <!--END_SECTION:activity-->
 
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-
 ### 🌱 What do I do and What have I done? 
 
 ## Contact Me
@@ -38,31 +30,14 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 [![Website Badge](https://img.shields.io/badge/-desmondgilmour.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://desmondgilmour.com)](https://desmondgilmour.com)
 [![Gmail Badge](https://img.shields.io/badge/-desmondgilmour-c14438?style=flat&logo=Gmail&logoColor=white&link=desmondgilmour@gmail.com)](mailto:desmondgilmour@gmail.com)
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
 
-<img src="stats.gif" width="90%"><br/><br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-<details>
-  this is good for large amounts of data
-</details>
-
-
-<div align="center">
-  <a href="https://github.com/dessygil/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=dessygil&&show_icons=true&theme=radical"/>
- </a>
-</div>  
-
-
 
 ### Frontend  
-<details
+<details>
+  <summary>Frontend</summary>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -76,10 +51,9 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 </div>
 </details>
 
-
-
 ### Backend  
 <details>
+  <summary>Backend</summary>
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -96,12 +70,9 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 </div>
 </details>
 
-
-
-
-
 ### DevOps  
 <details>
+  <summary>Devops</summary>
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -110,9 +81,6 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 </details>
-
-
-
 <br/>  
 
 ## Github Stats  
@@ -121,6 +89,27 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
     <img  src="https://github-readme-stats.vercel.app/api?username=dessygil&&show_icons=true&theme=radical"/>
   </a>
 </div>  
+  
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
+
+<div align="center">
+  <a href="https://github.com/dessygil/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=dessygil&&show_icons=true&theme=radical"/>
+ </a>
+</div>  
+ 
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 
 
