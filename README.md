@@ -80,6 +80,10 @@ Feel free to connect through any of the below channels, I would love to chat, wo
 
 <br/>  
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dessygil&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Lasso Highlighting In Datamol](https://dev.to/dessygil/lasso-highlighting-in-datamol-36l3)
