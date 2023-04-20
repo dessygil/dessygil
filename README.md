@@ -1,6 +1,10 @@
 <div align="center">
-
+  <a href="https://github.com/dessygil/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=dessygil&&show_icons=true&theme=radical"/>
+ </a>
 </div>  
+
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <div align="center">
   <h1>I'm Desmond Gilmour (Des/Dessy) </h1>
@@ -15,16 +19,41 @@
 </p>
 
 <br>
+🧬🦠
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+
+### 🌱 What do I do and What have I done? 
 
 ## Contact Me
 
 Feel free to connect through any of the below channels, I would love to chat, work on porjects and to learn more from the community.
+
+You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-desmondgilmour-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desmond-gilmour-886b3a128/)](https://www.linkedin.com/in/desmond-gilmour-886b3a128/)
 [![Website Badge](https://img.shields.io/badge/-desmondgilmour.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://desmondgilmour.com)](https://desmondgilmour.com)
 [![Gmail Badge](https://img.shields.io/badge/-desmondgilmour-c14438?style=flat&logo=Gmail&logoColor=white&link=desmondgilmour@gmail.com)](mailto:desmondgilmour@gmail.com)
 
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
