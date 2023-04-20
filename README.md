@@ -47,7 +47,7 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 [![Website Badge](https://img.shields.io/badge/-desmondgilmour.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://desmondgilmour.com)](https://desmondgilmour.com)
 [![Gmail Badge](https://img.shields.io/badge/-desmondgilmour-c14438?style=flat&logo=Gmail&logoColor=white&link=desmondgilmour@gmail.com)](mailto:desmondgilmour@gmail.com)
 
-
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
@@ -152,6 +152,10 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 <div align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=dessygil">
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
 
 
 <!---
