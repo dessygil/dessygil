@@ -1,5 +1,5 @@
 <div align="center">
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">I'm Desmond Gilmour (Des/Dessy)🧬🦠 
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">I'm Desmond Gilmour (Des/Dessy)🧬🦠 <br/>
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
@@ -17,14 +17,11 @@
 <!--END_SECTION:activity-->
 
 
-### 🌱 What do I do and What have I done? 
+## 🌱 What do I do and What have I done? 
 
 ## Contact Me
 
-Feel free to connect through any of the below channels, I would love to chat, work on porjects and to learn more from the community.
-
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
-
+Feel free to connect through any of the below channels, ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 [![Linkedin Badge](https://img.shields.io/badge/-desmondgilmour-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desmond-gilmour-886b3a128/)](https://www.linkedin.com/in/desmond-gilmour-886b3a128/)
 [![Website Badge](https://img.shields.io/badge/-desmondgilmour.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://desmondgilmour.com)](https://desmondgilmour.com)
@@ -34,7 +31,6 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 ## My Skill Set  
 
-### Frontend  
 <details>
   <summary>Frontend</summary>
 <div align="center">  
@@ -49,8 +45,7 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 </details>
-
-### Backend  
+ 
 <details>
   <summary>Backend</summary>
 <div align="center">  
@@ -68,8 +63,7 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div>
 </details>
-
-### DevOps  
+ 
 <details>
   <summary>Devops</summary>
 <div align="center">  
