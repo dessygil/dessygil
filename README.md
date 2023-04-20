@@ -117,6 +117,8 @@ Feel free to connect through any of the below channels, ask me anything (within 
 - [Runaway Button React App](https://dev.to/dessygil/runaway-button-react-app-1eae)
 - [Reaching Out To Recruiters](https://dev.to/dessygil/reaching-out-to-recruiters-1m04)
 <!-- BLOG-POST-LIST:END -->
+    
+ <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
 
 ## Education
 - Double degree in Chemistry and Computer Science from [Name of University]
