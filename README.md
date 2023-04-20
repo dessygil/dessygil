@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+
 </div>  
 
 <div align="center">
@@ -80,7 +80,9 @@ Feel free to connect through any of the below channels, I would love to chat, wo
 
 <br/>  
 
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Education
 - Double degree in Chemistry and Computer Science from [Name of University]
