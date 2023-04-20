@@ -103,9 +103,9 @@ Feel free to connect through any of the below channels, I would love to chat, wo
 - I'm proud of my year-long Duo Lingo streak
 
 
-<div align="center">
+
 ![](https://visitor-badge.glitch.me/badge?page_id=dessygil)
-</div>
+
 
 <!---
 dessygil/dessygil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
