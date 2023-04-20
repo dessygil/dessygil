@@ -11,14 +11,18 @@
   <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
 </p>
 
-<br>
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
-## 🌱 What do I do and What have I done? 
+## 🌱 What do I do and What have I done?
+    
+#### Do
+- Contributing to open source projects like Datamol, Molfeat and RDKit
+- Building a laboratory management system
+    
+#### Done
+- Ran a Vintage clothing Shopify *Vintage Academy* that grossed $2000/mon
+- Double degree in Chemistry and Computer Science from University of Guelph
+- NSERC USRA in Organic Carbohydrate Sytnthesis
+- Capstone project titled *Quantification of Diastereomeric and Enantiomeric Mixtures of b-Aminoalkyl Sulfoxides Using ESI-FAIMS-MS*
 
 ## Contact Me
 
@@ -27,8 +31,6 @@ Feel free to connect through any of the below channels, ask me anything (within 
 [![Linkedin Badge](https://img.shields.io/badge/-desmondgilmour-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desmond-gilmour-886b3a128/)](https://www.linkedin.com/in/desmond-gilmour-886b3a128/)
 [![Website Badge](https://img.shields.io/badge/-desmondgilmour.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://desmondgilmour.com)](https://desmondgilmour.com)
 [![Gmail Badge](https://img.shields.io/badge/-desmondgilmour-c14438?style=flat&logo=Gmail&logoColor=white&link=desmondgilmour@gmail.com)](mailto:desmondgilmour@gmail.com)
-
-
 
 ## My Skill Set  
 
@@ -77,16 +79,7 @@ Feel free to connect through any of the below channels, ask me anything (within 
 </details>
 <br/>  
 
-  
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
-
-
-<img src="stats.gif" width="90%"><br/><br/>
-
-
- 
-
-
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -97,6 +90,7 @@ Feel free to connect through any of the below channels, ask me anything (within 
 - [Reaching Out To Recruiters](https://dev.to/dessygil/reaching-out-to-recruiters-1m04)
 <!-- BLOG-POST-LIST:END -->
     
+#Some Github Statistics 
     
 <a href="https://github.com/dessygil/dessygil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessygil&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -104,21 +98,6 @@ Feel free to connect through any of the below channels, ask me anything (within 
 <a href="https://github.com/dessygil/dessygil">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dessygil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-    
- <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
-
-## Education
-- Double degree in Chemistry and Computer Science from [Name of University]
-- Relevant coursework includes:
-  - Organic Chemistry
-  - Biochemistry
-  - Data Structures and Algorithms
-  - Machine Learning
-
-## Research Experience
-- [Name of Research Project or Laboratory] (Duration of Research)
-  - Description of research work and results achieved
-
 
 ## Some Other Things About Me
 - I started practicing Brazilian Jiu Jitsu in the summer of 2022
