@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20major%20release-Mar.%199700-important" />
+  <img src="https://img.shields.io/badge/last%20major%20release-mar%201997-important" />
   <img src="https://img.shields.io/badge/unminified%20size-5%20feet%206%20inches-informational" />
   <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
   <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
