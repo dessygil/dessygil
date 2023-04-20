@@ -1,4 +1,10 @@
-# Hi there 👋 I'm Desmond Gilmour (Des/Dessy) 
+# Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Desmond Gilmour (Des/Dessy) 
+
+<p>
+  <a href="https://github.com/dessygil" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-       badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/desmond-gilmour-886b3a128/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://dev.to/dessygil" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dessygil)
 
