@@ -89,6 +89,10 @@ Feel free to connect through any of the below channels, ask me anything (within 
 - [Reaching Out To Recruiters](https://dev.to/dessygil/reaching-out-to-recruiters-1m04)
 <!-- BLOG-POST-LIST:END -->
     
+# Recent GitHub Activity 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+    
 # Some Github Statistics 
     
 <a href="https://github.com/dessygil/dessygil">
