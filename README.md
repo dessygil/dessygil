@@ -1,4 +1,4 @@
-# Hi there, I'm Desmond Gilmour (Des/Dessy) 👋<iframe src="https://giphy.com/embed/7HuqlSbvKrzyzZhkzY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/sum-studijkemije-fpmoz-7HuqlSbvKrzyzZhkzY">via GIPHY</a></p>
+# Hi there 👋 I'm Desmond Gilmour (Des/Dessy) <img src="https://giphy.com/stickers/sum-studijkemije-fpmoz-7HuqlSbvKrzyzZhkzY/giphy.gif" width="50">
 
 I'm a software developer passionate about building web and mobile applications. I'm currently on the hunt for a developer role in the biotech industry. 
 
