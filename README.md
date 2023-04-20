@@ -103,8 +103,9 @@ Feel free to connect through any of the below channels, I would love to chat, wo
 - I'm proud of my year-long Duo Lingo streak
 
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=dessygil)
+<div align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=dessygil">
+</div>
 
 
 <!---
