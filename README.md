@@ -1,7 +1,6 @@
 <div align="center">
  <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><h1>
-   <h4>I'm Desmond Gilmour (Des/Dessy)🧬🦠<h4>
-  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   <h4>I'm Desmond Gilmour (He/Him)🧬🦠<h4> 
 </div>
 
 <p align="center">
@@ -90,7 +89,7 @@ Feel free to connect through any of the below channels, ask me anything (within 
 - [Reaching Out To Recruiters](https://dev.to/dessygil/reaching-out-to-recruiters-1m04)
 <!-- BLOG-POST-LIST:END -->
     
-#Some Github Statistics 
+# Some Github Statistics 
     
 <a href="https://github.com/dessygil/dessygil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessygil&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -99,7 +98,7 @@ Feel free to connect through any of the below channels, ask me anything (within 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dessygil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-## Some Other Things About Me
+## Some Fun Things About Me
 - I started practicing Brazilian Jiu Jitsu in the summer of 2022
 - I have a love for organic chemistry
 - I'm proud of my year-long Duo Lingo streak
@@ -108,10 +107,6 @@ Feel free to connect through any of the below channels, ask me anything (within 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/dessygil/count.svg" />
 </p>
-    
-<div align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=dessygil">
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
