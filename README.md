@@ -82,11 +82,11 @@ Feel free to connect through any of the below channels, ask me anything (within 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3D Spinning Molecule Using Avogadro, Blender and Three.js](https://dev.to/dessygil/3d-spinning-molecule-using-avogadro-blender-and-threejs-2ai9)
 - [Lasso Highlighting In Datamol](https://dev.to/dessygil/lasso-highlighting-in-datamol-36l3)
 - [Contributing to RDKit](https://dev.to/dessygil/contributing-to-rdkit-379b)
 - [How to Automatically Update Resume On Your Personal Site From OverLeaf](https://dev.to/dessygil/how-to-automatically-update-resume-on-your-personal-site-from-overleaf-1fld)
 - [Runaway Button React App](https://dev.to/dessygil/runaway-button-react-app-1eae)
-- [Reaching Out To Recruiters](https://dev.to/dessygil/reaching-out-to-recruiters-1m04)
 <!-- BLOG-POST-LIST:END -->
     
 # Recent GitHub Activity 
