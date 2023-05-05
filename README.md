@@ -91,9 +91,9 @@ Feel free to connect through any of the below channels, ask me anything (within 
     
 # Recent GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/datamol-io/datamol/issues/186) in [datamol-io/datamol](https://github.com/datamol-io/datamol)
-2. 💪 Opened PR [#40](https://github.com/datamol-io/molfeat/pull/40) in [datamol-io/molfeat](https://github.com/datamol-io/molfeat)
-3. 💪 Opened PR [#182](https://github.com/datamol-io/datamol/pull/182) in [datamol-io/datamol](https://github.com/datamol-io/datamol)
+1. 💪 Opened PR [#189](https://github.com/datamol-io/datamol/pull/189) in [datamol-io/datamol](https://github.com/datamol-io/datamol)
+2. 🗣 Commented on [#186](https://github.com/datamol-io/datamol/issues/186) in [datamol-io/datamol](https://github.com/datamol-io/datamol)
+3. 💪 Opened PR [#40](https://github.com/datamol-io/molfeat/pull/40) in [datamol-io/molfeat](https://github.com/datamol-io/molfeat)
 4. 🗣 Commented on [#163](https://github.com/datamol-io/datamol/issues/163) in [datamol-io/datamol](https://github.com/datamol-io/datamol)
 5. 🗣 Commented on [#177](https://github.com/datamol-io/datamol/issues/177) in [datamol-io/datamol](https://github.com/datamol-io/datamol)
 <!--END_SECTION:activity-->
