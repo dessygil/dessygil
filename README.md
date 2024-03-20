@@ -11,21 +11,21 @@
 </p>
 
 
-## 🌱 What do I do and What have I done?
+## 🌱 What do I do, and What have I done?
     
 #### Do
-- Contributing to open source projects like Datamol, Molfeat and RDKit
+- Contributing to open-source projects like Datamol, Molfeat, and RDKit
 - Building a laboratory management system
     
 #### Done
 - Ran a Vintage clothing Shopify *Vintage Academy* that grossed $2000/mon
-- Double degree in Chemistry and Computer Science from University of Guelph
-- NSERC USRA in Organic Carbohydrate Sytnthesis
+- Double degree in Chemistry and Computer Science from the University of Guelph
+- NSERC USRA in Organic Carbohydrate Synthesis
 - Capstone project titled *Quantification of Diastereomeric and Enantiomeric Mixtures of b-Aminoalkyl Sulfoxides Using ESI-FAIMS-MS*
 
 ## Contact Me
 
-Feel free to connect through any of the below channels, ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+Please feel free to reach out through any of the below channels and ask me anything (within reason). I am looking forward to absorbing knowledge🧠, gaining experience 🏭, collaborating 🤝, and building amazing products 🏭for the world🌍!
 
 [![Linkedin Badge](https://img.shields.io/badge/-desmondgilmour-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desmond-gilmour-886b3a128/)](https://www.linkedin.com/in/desmond-gilmour-886b3a128/)
 [![Website Badge](https://img.shields.io/badge/-desmondgilmour.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://desmondgilmour.com)](https://desmondgilmour.com)
@@ -108,7 +108,7 @@ Feel free to connect through any of the below channels, ask me anything (within 
 </a>
 
 ## Some Fun Things About Me
-- I started practicing Brazilian Jiu Jitsu in the summer of 2022
+- I started practicing Brazilian Jiu-Jitsu in the summer of 2022
 - I have a love for organic chemistry
 - I'm proud of my year-long Duo Lingo streak
 
