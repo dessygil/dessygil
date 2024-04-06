@@ -1,5 +1,5 @@
 <div align="center">
- <h1 style="display: inline;"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
+ <h1 style="display: inline;"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" /> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" /></h1>
  <h4 style="display: inline;">I'm Desmond Gilmour (He/Him)🧬🦠</h4>
 </div>
 
