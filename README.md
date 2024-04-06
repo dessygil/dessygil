@@ -14,14 +14,16 @@
 ## 🌱 What do I do, and What have I done?
     
 #### Do
+- Sales for Nicoya, a surface plasmon resonance company
 - Contributing to open-source projects like Datamol, Molfeat, and RDKit
-- Building a laboratory management system
+
     
 #### Done
 - Ran a Vintage clothing Shopify *Vintage Academy* that grossed $2000/mon
 - Double degree in Chemistry and Computer Science from the University of Guelph
 - NSERC USRA in Organic Carbohydrate Synthesis
 - Capstone project titled *Quantification of Diastereomeric and Enantiomeric Mixtures of b-Aminoalkyl Sulfoxides Using ESI-FAIMS-MS*
+- Built a laboratory management system
 
 ## Contact Me
 
