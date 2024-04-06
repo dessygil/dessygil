@@ -109,8 +109,7 @@ Please feel free to reach out through any of the below channels and ask me anyth
 
 ## Some Fun Things About Me
 - I started practicing Brazilian Jiu-Jitsu in the summer of 2022
-- I have a love for organic chemistry
-- I'm proud of my year-long Duo Lingo streak
+- I once had a 600+ day Portuguese Duolingo streak
 
 <p align="center"> 
   Visitors count<br>
