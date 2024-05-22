@@ -15,7 +15,7 @@
     
 #### Do
 - Sales for Nicoya, a surface plasmon resonance company
-- Contributing to open-source projects like Datamol, Molfeat, and RDKit
+- Contributing to open-source projects like Datamol, Molfeat, Polaris and RDKit
 
     
 #### Done
