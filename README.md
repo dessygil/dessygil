@@ -84,11 +84,11 @@ Please feel free to reach out through any of the below channels and ask me anyth
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Designed Binders: From Predictions to Automated SPR Validation](https://dev.to/dessygil/ai-designed-binders-from-predictions-to-automated-spr-validation-gij)
 - [Beyond Tm: What SUPR-DSF Adds to a Protein Stability Screen](https://dev.to/dessygil/beyond-tm-what-supr-dsf-adds-to-a-protein-stability-screen-4lp)
 - [What Chirascan LD Reveals About Polymer Alignment](https://dev.to/dessygil/what-chirascan-ld-reveals-about-polymer-alignment-2cb6)
 - [3D Spinning Molecule Using Avogadro, Blender and Three.js](https://dev.to/dessygil/3d-spinning-molecule-using-avogadro-blender-and-threejs-2ai9)
 - [Lasso Highlighting In Datamol](https://dev.to/dessygil/lasso-highlighting-in-datamol-36l3)
-- [Contributing to RDKit](https://dev.to/dessygil/contributing-to-rdkit-379b)
 <!-- BLOG-POST-LIST:END -->
     
 # Recent GitHub Activity 
