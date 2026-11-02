@@ -84,11 +84,11 @@ Please feel free to reach out through any of the below channels and ask me anyth
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Happens Before Your First HDX Time Point?](https://dev.to/dessygil/what-happens-before-your-first-hdx-time-point-4oo3)
+- [Could a Thermal Fingerprint Help Confirm Your Biologic’s Identity?](https://dev.to/dessygil/could-a-thermal-fingerprint-help-confirm-your-biologics-identity-3ogm)
+- [Your RNA CD Spectrum Changed. What Does That Mean for Your Formulation?](https://dev.to/dessygil/your-rna-cd-spectrum-changed-what-does-that-mean-for-your-formulation-363l)
+- [How I’m Using ChatGPT as My Personal Trainer](https://dev.to/dessygil/how-im-using-chatgpt-as-my-personal-trainer-20ch)
 - [AI-Designed Binders: From Predictions to Automated SPR Validation](https://dev.to/dessygil/ai-designed-binders-from-predictions-to-automated-spr-validation-gij)
-- [Beyond Tm: What SUPR-DSF Adds to a Protein Stability Screen](https://dev.to/dessygil/beyond-tm-what-supr-dsf-adds-to-a-protein-stability-screen-4lp)
-- [What Chirascan LD Reveals About Polymer Alignment](https://dev.to/dessygil/what-chirascan-ld-reveals-about-polymer-alignment-2cb6)
-- [3D Spinning Molecule Using Avogadro, Blender and Three.js](https://dev.to/dessygil/3d-spinning-molecule-using-avogadro-blender-and-threejs-2ai9)
-- [Lasso Highlighting In Datamol](https://dev.to/dessygil/lasso-highlighting-in-datamol-36l3)
 <!-- BLOG-POST-LIST:END -->
     
 # Recent GitHub Activity 
