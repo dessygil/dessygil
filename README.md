@@ -84,11 +84,11 @@ Please feel free to reach out through any of the below channels and ask me anyth
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Before You Trust That Screening Hit, What Is DMSO Doing to Your Protein?](https://dev.to/dessygil/before-you-trust-that-screening-hit-what-is-dmso-doing-to-your-protein-l8c)
 - [Your Antibody Barely Dissociates. How Much Can You Trust the Off-Rate?](https://dev.to/dessygil/your-antibody-barely-dissociates-how-much-can-you-trust-the-off-rate-34ba)
 - [What Happens Before Your First HDX Time Point?](https://dev.to/dessygil/what-happens-before-your-first-hdx-time-point-4oo3)
 - [Could a Thermal Fingerprint Help Confirm Your Biologic’s Identity?](https://dev.to/dessygil/could-a-thermal-fingerprint-help-confirm-your-biologics-identity-3ogm)
 - [Your RNA CD Spectrum Changed. What Does That Mean for Your Formulation?](https://dev.to/dessygil/your-rna-cd-spectrum-changed-what-does-that-mean-for-your-formulation-363l)
-- [How I’m Using ChatGPT as My Personal Trainer](https://dev.to/dessygil/how-im-using-chatgpt-as-my-personal-trainer-20ch)
 <!-- BLOG-POST-LIST:END -->
     
 # Recent GitHub Activity 
