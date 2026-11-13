@@ -84,11 +84,11 @@ Please feel free to reach out through any of the below channels and ask me anyth
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Designed a More Stable Enzyme. Did It Preserve Activity?](https://dev.to/dessygil/ai-designed-a-more-stable-enzyme-did-it-preserve-activity-4fhg)
+- [What Should Your AI Model Learn From the Next Plate of Experiments?](https://dev.to/dessygil/what-should-your-ai-model-learn-from-the-next-plate-of-experiments-361g)
+- [Where FastHDX Fits in AI-Assisted Drug Discovery](https://dev.to/dessygil/where-fasthdx-fits-in-ai-assisted-drug-discovery-cjh)
 - [AI Designed the Protein. Does It Stay Folded?](https://dev.to/dessygil/ai-designed-the-protein-does-it-stay-folded-5b7b)
 - [Before You Trust That Screening Hit, What Is DMSO Doing to Your Protein?](https://dev.to/dessygil/before-you-trust-that-screening-hit-what-is-dmso-doing-to-your-protein-l8c)
-- [Your Antibody Barely Dissociates. How Much Can You Trust the Off-Rate?](https://dev.to/dessygil/your-antibody-barely-dissociates-how-much-can-you-trust-the-off-rate-34ba)
-- [What Happens Before Your First HDX Time Point?](https://dev.to/dessygil/what-happens-before-your-first-hdx-time-point-4oo3)
-- [Could a Thermal Fingerprint Help Confirm Your Biologic’s Identity?](https://dev.to/dessygil/could-a-thermal-fingerprint-help-confirm-your-biologics-identity-3ogm)
 <!-- BLOG-POST-LIST:END -->
     
 # Recent GitHub Activity 
