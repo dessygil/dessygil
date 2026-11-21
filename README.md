@@ -84,11 +84,11 @@ Please feel free to reach out through any of the below channels and ask me anyth
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Plate-Based nanoDSF or Capillaries? A Buyer’s Guide to Automated Protein Stability Screening](https://dev.to/dessygil/plate-based-nanodsf-or-capillaries-a-buyers-guide-to-automated-protein-stability-screening-1kek)
+- [SPR or BLI for AI-Designed Proteins? Why I’d Start With Alto](https://dev.to/dessygil/spr-or-bli-for-ai-designed-proteins-why-id-start-with-alto-4pbh)
+- [The Antibody Still Binds. What Changed When You Added the Payload?](https://dev.to/dessygil/the-antibody-still-binds-what-changed-when-you-added-the-payload-3h4e)
 - [AI Designed a More Stable Enzyme. Did It Preserve Activity?](https://dev.to/dessygil/ai-designed-a-more-stable-enzyme-did-it-preserve-activity-4fhg)
 - [What Should Your AI Model Learn From the Next Plate of Experiments?](https://dev.to/dessygil/what-should-your-ai-model-learn-from-the-next-plate-of-experiments-361g)
-- [Where FastHDX Fits in AI-Assisted Drug Discovery](https://dev.to/dessygil/where-fasthdx-fits-in-ai-assisted-drug-discovery-cjh)
-- [AI Designed the Protein. Does It Stay Folded?](https://dev.to/dessygil/ai-designed-the-protein-does-it-stay-folded-5b7b)
-- [Before You Trust That Screening Hit, What Is DMSO Doing to Your Protein?](https://dev.to/dessygil/before-you-trust-that-screening-hit-what-is-dmso-doing-to-your-protein-l8c)
 <!-- BLOG-POST-LIST:END -->
     
 # Recent GitHub Activity 
