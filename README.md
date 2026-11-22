@@ -84,11 +84,11 @@ Please feel free to reach out through any of the below channels and ask me anyth
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An Alzheimer’s Antibody Binds Its Receptor. How Do You Know It Reaches the Brain?](https://dev.to/dessygil/an-alzheimers-antibody-binds-its-receptor-how-do-you-know-it-reaches-the-brain-5c4n)
+- [Your AI-Designed Antibody Binds EGFR. Does It Bind at the Wrong pH?](https://dev.to/dessygil/your-ai-designed-antibody-binds-egfr-does-it-bind-at-the-wrong-ph-2hm6)
+- [When Does Semaglutide Form Fibrils? What Circular Dichroism Can Tell You](https://dev.to/dessygil/when-does-semaglutide-form-fibrils-what-circular-dichroism-can-tell-you-301l)
+- [AI Can Propose a Molecular Glue. What Evidence Shows It Works?](https://dev.to/dessygil/ai-can-propose-a-molecular-glue-what-evidence-shows-it-works-2h7c)
 - [Plate-Based nanoDSF or Capillaries? A Buyer’s Guide to Automated Protein Stability Screening](https://dev.to/dessygil/plate-based-nanodsf-or-capillaries-a-buyers-guide-to-automated-protein-stability-screening-1kek)
-- [SPR or BLI for AI-Designed Proteins? Why I’d Start With Alto](https://dev.to/dessygil/spr-or-bli-for-ai-designed-proteins-why-id-start-with-alto-4pbh)
-- [The Antibody Still Binds. What Changed When You Added the Payload?](https://dev.to/dessygil/the-antibody-still-binds-what-changed-when-you-added-the-payload-3h4e)
-- [AI Designed a More Stable Enzyme. Did It Preserve Activity?](https://dev.to/dessygil/ai-designed-a-more-stable-enzyme-did-it-preserve-activity-4fhg)
-- [What Should Your AI Model Learn From the Next Plate of Experiments?](https://dev.to/dessygil/what-should-your-ai-model-learn-from-the-next-plate-of-experiments-361g)
 <!-- BLOG-POST-LIST:END -->
     
 # Recent GitHub Activity 
