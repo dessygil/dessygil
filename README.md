@@ -84,11 +84,11 @@ Please feel free to reach out through any of the below channels and ask me anyth
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I’d Choose Chirascan Over JASCO for Antibody Lot Comparisons](https://dev.to/dessygil/why-id-choose-chirascan-over-jasco-for-antibody-lot-comparisons-3hc9)
+- [Already Have a QuantStudio? When Is a Dedicated Protein Stability Instrument Worth It?](https://dev.to/dessygil/already-have-a-quantstudio-when-is-a-dedicated-protein-stability-instrument-worth-it-2ffn)
 - [Replacing a Biacore T200? Three SPR Assays I’d Run on Nicoya Alto First](https://dev.to/dessygil/replacing-a-biacore-t200-three-spr-assays-id-run-on-nicoya-alto-first-3bam)
 - [Olezarsen Targets RNA. How Do You Show an Antisense Candidate Forms the Duplex You Expect?](https://dev.to/dessygil/olezarsen-targets-rna-how-do-you-show-an-antisense-candidate-forms-the-duplex-you-expect-1dcg)
 - [An Alzheimer’s Antibody Binds Its Receptor. How Do You Know It Reaches the Brain?](https://dev.to/dessygil/an-alzheimers-antibody-binds-its-receptor-how-do-you-know-it-reaches-the-brain-5c4n)
-- [Your AI-Designed Antibody Binds EGFR. Does It Bind at the Wrong pH?](https://dev.to/dessygil/your-ai-designed-antibody-binds-egfr-does-it-bind-at-the-wrong-ph-2hm6)
-- [When Does Semaglutide Form Fibrils? What Circular Dichroism Can Tell You](https://dev.to/dessygil/when-does-semaglutide-form-fibrils-what-circular-dichroism-can-tell-you-301l)
 <!-- BLOG-POST-LIST:END -->
     
 # Recent GitHub Activity 
