@@ -84,11 +84,11 @@ Please feel free to reach out through any of the below channels and ask me anyth
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Teaching AI About Disordered Proteins? I’d Start at 50 Milliseconds](https://dev.to/dessygil/teaching-ai-about-disordered-proteins-id-start-at-50-milliseconds-7f8)
+- [Which Antibodies Go on the Next Plate? How Nicoya Fits Into an Automated Lab](https://dev.to/dessygil/which-antibodies-go-on-the-next-plate-how-nicoya-fits-into-an-automated-lab-30oj)
 - [Your bispecific gained an acidic peak. Does it still bind both targets?](https://dev.to/dessygil/your-bispecific-gained-an-acidic-peak-does-it-still-bind-both-targets-3n87)
 - [BLI or SPR for Automated Antibody Titer? Follow One Sample Before You Connect Either to a Bioreactor](https://dev.to/dessygil/bli-or-spr-for-automated-antibody-titer-follow-one-sample-before-you-connect-either-to-a-bioreactor-ic7)
 - [Why I’d Choose Chirascan Over JASCO for Antibody Lot Comparisons](https://dev.to/dessygil/why-id-choose-chirascan-over-jasco-for-antibody-lot-comparisons-3hc9)
-- [Already Have a QuantStudio? When Is a Dedicated Protein Stability Instrument Worth It?](https://dev.to/dessygil/already-have-a-quantstudio-when-is-a-dedicated-protein-stability-instrument-worth-it-2ffn)
-- [Replacing a Biacore T200? Three SPR Assays I’d Run on Nicoya Alto First](https://dev.to/dessygil/replacing-a-biacore-t200-three-spr-assays-id-run-on-nicoya-alto-first-3bam)
 <!-- BLOG-POST-LIST:END -->
     
 # Recent GitHub Activity 
