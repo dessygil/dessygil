@@ -84,11 +84,11 @@ Please feel free to reach out through any of the below channels and ask me anyth
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SUPR-DSF or Prometheus Panta: Which Three Buffers Go in the Fridge?](https://dev.to/dessygil/supr-dsf-or-prometheus-panta-which-three-buffers-go-in-the-fridge-1ei4)
 - [Aunty vs. SUPR-DSF: Should you measure particle size in every formulation or just the finalists?](https://dev.to/dessygil/aunty-vs-supr-dsf-should-you-measure-particle-size-in-every-formulation-or-just-the-finalists-2li9)
 - [Teaching AI About Disordered Proteins? I’d Start at 50 Milliseconds](https://dev.to/dessygil/teaching-ai-about-disordered-proteins-id-start-at-50-milliseconds-7f8)
 - [Which Antibodies Go on the Next Plate? How Nicoya Fits Into an Automated Lab](https://dev.to/dessygil/which-antibodies-go-on-the-next-plate-how-nicoya-fits-into-an-automated-lab-30oj)
 - [Your bispecific gained an acidic peak. Does it still bind both targets?](https://dev.to/dessygil/your-bispecific-gained-an-acidic-peak-does-it-still-bind-both-targets-3n87)
-- [BLI or SPR for Automated Antibody Titer? Follow One Sample Before You Connect Either to a Bioreactor](https://dev.to/dessygil/bli-or-spr-for-automated-antibody-titer-follow-one-sample-before-you-connect-either-to-a-bioreactor-ic7)
 <!-- BLOG-POST-LIST:END -->
     
 # Recent GitHub Activity 
