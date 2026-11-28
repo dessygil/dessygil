@@ -84,11 +84,11 @@ Please feel free to reach out through any of the below channels and ask me anyth
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Three vials, one microscope slot: using circular dichroism to choose what gets imaged](https://dev.to/dessygil/three-vials-one-microscope-slot-using-circular-dichroism-to-choose-what-gets-imaged-1nid)
+- [This hemoglobin held oxygen more tightly. So how did it let go faster?](https://dev.to/dessygil/this-hemoglobin-held-oxygen-more-tightly-so-how-did-it-let-go-faster-ld3)
 - [SUPR-DSF or Prometheus Panta: Which Three Buffers Go in the Fridge?](https://dev.to/dessygil/supr-dsf-or-prometheus-panta-which-three-buffers-go-in-the-fridge-1ei4)
 - [Aunty vs. SUPR-DSF: Should you measure particle size in every formulation or just the finalists?](https://dev.to/dessygil/aunty-vs-supr-dsf-should-you-measure-particle-size-in-every-formulation-or-just-the-finalists-2li9)
 - [Teaching AI About Disordered Proteins? I’d Start at 50 Milliseconds](https://dev.to/dessygil/teaching-ai-about-disordered-proteins-id-start-at-50-milliseconds-7f8)
-- [Which Antibodies Go on the Next Plate? How Nicoya Fits Into an Automated Lab](https://dev.to/dessygil/which-antibodies-go-on-the-next-plate-how-nicoya-fits-into-an-automated-lab-30oj)
-- [Your bispecific gained an acidic peak. Does it still bind both targets?](https://dev.to/dessygil/your-bispecific-gained-an-acidic-peak-does-it-still-bind-both-targets-3n87)
 <!-- BLOG-POST-LIST:END -->
     
 # Recent GitHub Activity 
